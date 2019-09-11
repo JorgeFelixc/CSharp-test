@@ -115,7 +115,7 @@ namespace ringba
                 for (int j = 0; j < abc.Length; j++)
                 {
                     string currentLetter = abc[j].ToString();
-                    abcDictionary[currentLetter] = CountLetters(i, currentLetter);
+                    abcDictionary[currentLetter] += CountLetters(i, currentLetter);
                 }
 
                 //Counting the Prefixed words
