@@ -1,0 +1,10 @@
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\obj\Debug\netcoreapp2.0\.Net core 2.2.csproj.CoreCompileInputs.cache
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\obj\Debug\netcoreapp2.0\.Net core 2.2.AssemblyInfoInputs.cache
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\obj\Debug\netcoreapp2.0\.Net core 2.2.AssemblyInfo.cs
+C:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\bin\Debug\netcoreapp2.0\.Net core 2.2.deps.json
+C:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\bin\Debug\netcoreapp2.0\.Net core 2.2.runtimeconfig.json
+C:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\bin\Debug\netcoreapp2.0\.Net core 2.2.runtimeconfig.dev.json
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\bin\Debug\netcoreapp2.0\.Net core 2.2.dll
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\bin\Debug\netcoreapp2.0\.Net core 2.2.pdb
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\obj\Debug\netcoreapp2.0\.Net core 2.2.dll
+c:\Users\dell\Desktop\Web Development\C#\.Net core 2.2\ringba-test\obj\Debug\netcoreapp2.0\.Net core 2.2.pdb
